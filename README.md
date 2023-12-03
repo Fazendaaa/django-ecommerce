@@ -15,6 +15,18 @@ This project was created almost two years ago. Since then, there is a newer vers
 
 ---
 
+# Executar
+
+1. clone o projeto
+2. rode no terminal: `docker-compose up --build`
+
+# Cadastro de produtos
+
+1. Rode no terminal `python manage.py createsuperuser` para criar o usuário administrador do sistema
+2. Execute o projeto e abra a url: http://localhost/admin/
+3. Em Items há a opção de adicionar -- um mais seguido de Add --, clique nela
+4. Preencha as informações com o item que deseja adicionar
+
 # Django E-commerce
 
 This is a very simple e-commerce website built with Django.
@@ -91,7 +103,7 @@ If you're learning Django and want to take your next step to become a profession
 
 <div align="center">
 
-<i>Other places you can find us:</i><br>
+`<i>`Other places you can find us:`</i><br>`
 
 <a href="https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://www.twitter.com/justdjangocode" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
