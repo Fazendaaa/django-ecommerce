@@ -28,3 +28,13 @@ Caso queira interagir com o projeto, você deverá antes instalar ele na sua má
 2. Execute o projeto e abra a url: http://localhost/admin/
 3. Em Items há a opção de adicionar -- um mais seguido de Add --, clique nela
 4. Preencha as informações com o item que deseja adicionar
+
+obs: muito dos produtos já cadastrados em `db.sqlite3` presentes neste projeto precisam de imagens que se encontram na pasta `img`
+
+# Pagamento
+
+Para testar o pagamento por cartão de crédito basta utilizar o cartão de testes:
+
+* número do cartão: 4000 0007 6000 0002
+* data de vencimento: qualquer data futura
+* código de segurança: qualquer número de três dígitos
