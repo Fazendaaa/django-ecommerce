@@ -12,6 +12,6 @@ COPY db.sqlite3 .
 COPY static_in_env/ static_in_env/
 COPY templates/ templates/
 COPY core/ core/
-COPY djecommerce/ djecommerce/
+COPY cookies-n-soda/ cookies-n-soda/
 
 ENTRYPOINT [ "python", "manage.py", "runserver", "0.0.0.0:8000" ]
