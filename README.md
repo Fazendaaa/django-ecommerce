@@ -38,3 +38,9 @@ Para testar o pagamento por cartão de crédito basta utilizar o cartão de test
 * número do cartão: 4000 0007 6000 0002
 * data de vencimento: qualquer data futura
 * código de segurança: qualquer número de três dígitos
+
+# Cadastro de cupons
+
+1. Execute o projeto e abra a url: http://localhost/admin/
+2. Em Cupons há a opção de adicionar -- um mais seguido de Add --, clique nela
+3. Preencha as informações com o item que deseja adicionar
